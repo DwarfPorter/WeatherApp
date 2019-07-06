@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="city">City</string>
+    <string name="time">time and date</string>
+    <string name="temperature">+F</string>
+    <string name="buttonNow">now</string>
+    <string name="buttonHour">+1h</string>
+    <string name="button2H">+2h</string>
+    <string name="button3H">+3H</string>
+    <string name="button6H">+6h</string>
+</resources>
