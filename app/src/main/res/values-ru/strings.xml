@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="city">Город</string>
+    <string name="time">дата и время</string>
+    <string name="temperature">+C</string>
+    <string name="buttonNow">сейчас</string>
+    <string name="buttonHour">+1ч</string>
+    <string name="button2H">+2ч</string>
+    <string name="button3H">+3ч</string>
+    <string name="button6H">+6ч</string>
+</resources>
